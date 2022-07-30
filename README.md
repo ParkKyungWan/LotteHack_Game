@@ -24,3 +24,4 @@
    - 랜더링 시 깜빡임 있음 ㅜ
    - 사용된 캔버스의 크기는 810 * 466 px 
   
+![녹화_2020_10_21_02_08_37_871](https://user-images.githubusercontent.com/48673195/181909066-406d1ab6-ff6e-44c8-adf4-092cb2ffca7e.gif)
